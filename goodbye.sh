@@ -1,1 +1,1 @@
-echo "Goodbye"
+echo "Welcome to Composite action"
